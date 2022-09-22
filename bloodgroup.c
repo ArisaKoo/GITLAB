@@ -45,5 +45,6 @@ void main()
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n")
-  printf("holle\n");
+  printf("holle\n")
+  printf("love you\n");
 }
